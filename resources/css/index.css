@@ -1,0 +1,20 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+ 
+ 
+h1 {
+  color: SeaGreen;
+}
+ 
+ 
+p, 
+li {
+	color: DarkOrange;
+  font-size: 14px;
+}
+ 
+ 
+a {
+  text-decoration: none;
+}
